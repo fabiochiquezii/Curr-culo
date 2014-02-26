@@ -1,4 +1,4 @@
-Curr-culo
+Currículo
 =========
 
 Meu Currículo
